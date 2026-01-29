@@ -4,10 +4,10 @@
 
 Sou um apaixonado por transformar dados brutos em insights acionáveis e modelos preditivos de alto impacto. Meu foco principal é o desenvolvimento de soluções ponta a ponta, desde a análise exploratória até o deploy em produção
 
-- 🔭 Atualmente estou trabalhando em projetos de **Machine Learning e Deep Learning**.
-- 🌱 Estou aprimorando meus conhecimentos em **MLOps e arquitetura na AWS**.
-- 💬 Pergunte-me sobre **Python, Redes Neurais e como escalar modelos com FastAPI**.
-- 📫 Como me encontrar: https://www.linkedin.com/in/igor-wasiljew/
+- Atualmente estou trabalhando em projetos de **Machine Learning e Deep Learning**.
+- Estou aprimorando meus conhecimentos em **MLOps e arquitetura na AWS**.
+- Pergunte-me sobre **Python, Redes Neurais e como escalar modelos com FastAPI**.
+- Como me encontrar: https://www.linkedin.com/in/igor-wasiljew/
 
 ---
 
@@ -31,12 +31,14 @@ Sou um apaixonado por transformar dados brutos em insights acionáveis e modelos
 **Infraestrutura e Ferramentas**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+**IDE**
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
