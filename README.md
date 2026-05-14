@@ -1,6 +1,6 @@
 # Olá, me chamo Igor Wasiljew! 👋
 
-### Cientista de Dados | Especialista em Machine Learning
+### Cientista de Dados |  Machine Learning Engineer
 
 - Atualmente estou trabalhando em projetos de **Machine Learning e Deep Learning**.
 - Estou aprimorando meus conhecimentos em **MLOps e arquitetura na AWS**.
